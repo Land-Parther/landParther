@@ -5,6 +5,8 @@ const Container = styled.ul`
   align-items: center;
   grid-template-columns: 30% 40% 15%;
   padding: 15px 0;
+  background-color: #f6f8fa;
+  text-align: left;
 `
 
 const HeaderItem = styled.li`

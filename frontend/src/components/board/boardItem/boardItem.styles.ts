@@ -13,7 +13,7 @@ const Container = styled.li`
   }
 
   &:hover {
-    background-color: #eee;
+    background-color: #eeeefb;
     cursor: pointer;
   }
 `
