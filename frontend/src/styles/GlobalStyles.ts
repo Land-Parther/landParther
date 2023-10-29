@@ -30,6 +30,7 @@ const GlobalStyles = createGlobalStyle`
 
   body {
     line-height: 1;
+    font-family: "Pretendard Variable";
   }
 
   ol, ul {
@@ -49,6 +50,13 @@ const GlobalStyles = createGlobalStyle`
   table {
     border-collapse: collapse;
     border-spacing: 0;
+  }
+
+  :root {
+    --white: #fff;
+    --primary: #2f2be9;
+    --primary-light: #d8d9f7;
+
   }
 `
 
