@@ -1,9 +1,11 @@
-package com.web.backend.user.repository;
+package com.web.backend.user.repository.impl;
 
 import com.web.backend.user.domain.User;
 import java.util.Map;
 import java.util.Optional;
 import java.util.concurrent.ConcurrentHashMap;
+
+import com.web.backend.user.repository.UserRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
