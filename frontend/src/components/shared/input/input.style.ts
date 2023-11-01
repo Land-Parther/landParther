@@ -17,6 +17,7 @@ const DefaultInput = styled.input`
   }
   &::placeholder {
     color: var(--primary-light);
+    font-size: 12px;
   }
 `
 
